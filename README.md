@@ -1,4 +1,4 @@
-# Gamegear image converter and display tool
+# GG Image 5000
 
 ## Quick Introduction for converting images
 
