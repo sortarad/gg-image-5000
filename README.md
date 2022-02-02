@@ -24,7 +24,7 @@ The batch file will call magick.exe with the appropriate parameters to convert t
 
 ### buildggimg
 
-The folder **buildggimg** contains the Visual Studio project to build the **buildggimg.exe** file. All this file does is take an RGB image of the size 160x144 pixels and converts and patches it into a base gg file. The result is written to an output file.
+The **buildggimg** folder contains the Visual Studio project to build the **buildggimg.exe** file. All this file does is take an RGB image of the size 160x144 pixels and converts and patches it into a base gg file. The result is written to an output file.
 
 ### Examples for using buildgging.exe
 
@@ -60,7 +60,7 @@ buildggimg.exe -g testpatterncb.gg -o sunflower-160x144.gg -i temp.rgb
 
 ### testpatterncb
 
-The folder testpatterncp contains the source code for the testpatterncb.gg file. The testpatterncb code is built using the SDCC (small device C compiler) and the CodeBlocks IDE.
+The testpatterncp folder contains the source code for the testpatterncb.gg file. The testpatterncb code is built using the SDCC (small device C compiler) and the CodeBlocks IDE.
 
 #### Pre-requisites
 
