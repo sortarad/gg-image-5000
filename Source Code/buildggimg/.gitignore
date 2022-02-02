@@ -1,0 +1,5 @@
+.vscode/
+build/
+/.vs/buildggimg/v16
+/Release
+/.vs
