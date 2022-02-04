@@ -18,7 +18,7 @@ For example:
 convert.bat sunflower.jpg sunflower-160x144.gg
 ```
 
-The batch file will call magick.exe with the appropriate parameters to convert the image to a smaller image that can be used to display on the Gamegear. The tool buildggimg.exe will patch the image into a base gg file called testpatterncb.gg and produce a resulting patched file called sunflower-160x144.gg that can be opened in the emulator to display.
+The batch file will call magick.exe with the appropriate parameters to convert the image to a smaller image that can be used to display on the Game Gear. The tool buildggimg.exe will patch the image into a base gg file called testpatterncb.gg and produce a resulting patched file called sunflower-160x144.gg that can be opened in the emulator to display.
 
 ## Source codes
 
